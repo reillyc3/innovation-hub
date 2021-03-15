@@ -12,5 +12,5 @@ Our first location is going to be just outside Nakuru, Kenya, in Barut. As we pr
 
 ### Barut, Nakuru, Kenya
 
-![Map of Kenya innovation center](/innovation-hub/img/nakuru.png)
+![Map of Kenya innovation center](img/nakuru.png)
 
