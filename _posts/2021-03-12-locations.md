@@ -2,7 +2,7 @@
 title: "locations"
 bg: '#63BD2F'
 color: white
-fa-icon: plug
+fa-icon: map
 ---
 
 # Locations
