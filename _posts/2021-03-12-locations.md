@@ -8,7 +8,7 @@ fa-icon: map
 # Locations
 
 
-Our first location is going to be just outside Nakuru, Kenya, in Barut. As we prove the out the concept, we hope to establish more locations in Kenya, and around the globe.
+Our first location is going to be just outside Nakuru, Kenya, in Barut. As we prove out the concept, we hope to establish more locations in Kenya, and around the globe.
 
 ### Barut, Nakuru, Kenya
 
