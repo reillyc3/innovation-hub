@@ -18,9 +18,9 @@ title:       "Innovation Hub - Kenya"
 keywords:    "innovation, education, kenya, nakuru"
 description: "An innovation hub for kids to learn, study, grow"
 source_link: "https://reillyc3.github.io/innovation-hub/"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+favicon:     ""
+touch_icon:  ""
+google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
