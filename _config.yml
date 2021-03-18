@@ -16,7 +16,7 @@ markdown: kramdown
 ### content configuration ###
 title:       "Ubunifu"
 keywords:    "innovation, ubunifu, education, kenya, nakuru"
-description: "Swahili for "innovation," Ubunifu, is a hub for kids to learn, study, and grow."
+description: "Swahili for innovation, Ubunifu, is a hub for kids to learn, study, and grow."
 source_link: "https://reillyc3.github.io/innovation-hub/"
 favicon:     ""
 touch_icon:  ""
