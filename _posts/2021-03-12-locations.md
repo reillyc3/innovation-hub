@@ -12,5 +12,6 @@ Our first Ubunifu hub location is going to be just outside Nakuru, Kenya, in Bar
 
 ### Barut, Nakuru, Kenya
 
+
 ![Map of Kenya innovation center](img/nakuru.png)
 
