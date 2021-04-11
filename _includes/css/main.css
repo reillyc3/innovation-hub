@@ -355,3 +355,7 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+.container p:first-of-type{ 
+  margin-top: 0px;
+ 
+}
